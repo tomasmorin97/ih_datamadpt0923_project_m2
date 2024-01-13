@@ -1,8 +1,8 @@
 <p align="left"><img src="https://cdn-images-1.medium.com/max/184/1*2GDcaeYIx_bQAZLxWM4PsQ@2x.png"></p>
 
-# __ih_datamadpt0223_project_m2__
+# __ih_datamadpt0923_project_m2__
 
-![Image](https://github.com/ih-datapt-mad/ih_datamadpt0223_project_m2/blob/main/images/visuals.jpg)
+![Image](https://github.com/ih-datapt-mad/ih_datamadpt0923_project_m2/blob/main/images/visuals.jpg)
 
 Data analytics is oftentimes referred to as business intelligence, BI development, or product analytics. However, that is just the tip of the iceberg since the data analytics process includes activities such as data formation/creation, data cleansing, exploratory data analysis (especially this part), feature engineering, and interpretation of suggestions/predictions/results derived from advanced modelling analysis (i.e.: Machine Learning).
 
